@@ -1,0 +1,35 @@
+{
+    "name": "<Jack & Ginger>",
+    "description": "All you need is three ingredients for a crowd-pleasing game day cocktail.",
+    "github": "AdmiralKimchi",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "measure": "oz",
+            "ingredient": "Jack Daniels"
+        },
+        {
+            "quantity": "4",
+            "measure": "oz",
+            "ingredient": "Ginger Ale"
+        },
+        {
+            "quantity": "1",
+            "measure": "splash / slice",
+            "ingredient": "Lime Juice / Lime slice"
+        },
+    ],
+    "directions": [
+        "Add prefered amount of icecubes, then add the 2 oz of Jack Daniels",
+        "Top with Ginger Ale",
+        "Squeeze a splash of lime juice or add a slice of lime"
+    ],
+    "image": "<jackginger.jpg>",
+    "keywords": [
+        "Jack Daniels",
+        "Ginger Ale",
+        "Lime",
+        "Summer drink",
+        "Ice cubes",
+    ]
+}
